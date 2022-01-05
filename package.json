@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Huynh Le",
+	"description": "first course freecodecamp managing packages with git",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
